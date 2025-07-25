@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyansh
 
-🎓 I'm a Computer Science undergraduate passionate about:
+🎓 I'm a Computer Science undergrad passionate about:
 - Building intelligent agents
 - Game development (Tkinter, Pygame)
 - Artificial Intelligence & Reinforcement Learning
