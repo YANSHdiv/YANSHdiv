@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Divyansh Raj
+# 👋 Hi, I'm Divyansh
 
 🎓 I'm a Computer Science undergraduate passionate about:
 - Building intelligent agents
@@ -10,7 +10,6 @@
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-ffbf00?style=for-the-badge&logo=python&logoColor=black)
 ![Pygame](https://img.shields.io/badge/Pygame-009933?style=for-the-badge&logo=pygame&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,8 +41,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-raj-404a56284/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divnoeain@gmail.com)
 
 ---
 
